@@ -7,6 +7,8 @@
 'git status'- see status of local repository
 'git log'- view commit log
 git log --oneLine- Compact view of commit log
+'git remote add origin URL' - Connect local repository
+
 
 ### Basic Branching
 * 'git branch' - Show branches, current branch
